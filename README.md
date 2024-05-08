@@ -1,2 +1,2 @@
-# jis-barcode-latex
-HOW TO Make JIS-Barcode(ja) with latex.
+# jis-barcode-luatex-ja
+HOW TO Use JIS-Barcode(ja) with LuaTeX-ja.
