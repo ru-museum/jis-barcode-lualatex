@@ -14,7 +14,7 @@ HOW TO Use JIS-Barcode(ja) with LuaTeX-ja.
 - LuaTeX(LuaHBTeX), Version 1.18.0 (TeX Live 2025)
 - Gedit：**Gedit** と **Debian** との作業環境手順の解説を添付しています。  
 
-| filename | Description |
+| Filename | Description |
 | --- | --- |
 | gedit-plugins.pdf | gedit-plugins 使用に関する解説 |
 | lualatex-build | ビルド用スクリプト(sh) |
