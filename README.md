@@ -7,7 +7,7 @@ HOW TO Use JIS-Barcode(ja) with LuaTeX-ja.
 - **pst-barcode**(PSTricks)を用いたJIS制定各種バーコード（一次元・二次元シンボル）の作成手順を解説しています。  
 - ISO国際標準であり日本で主に使用されるインタリーブド2オブ5、コード39、EAN/UPC、コード128、GS1データバー等、及び書籍JAN コード(ISBN)や雑誌バーコードを作成します。
 - **pst-barcode**をLuaLatex(LuaTeX-ja)で使用する上での問題点をまとめています。  
-- 二次元シンボルについては、一部 **再現性に疑いのあるもの** が含まれる為に検証中です。
+- 二次元シンボルについては検証中です。
 
 # 作業環境
 - GNU/Linux Debian
