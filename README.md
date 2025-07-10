@@ -9,7 +9,7 @@ HOW TO Use JIS-Barcode(ja) with LuaTeX-ja.
 - **pst-barcode**をLuaLatex(LuaTeX-ja)で使用する上での問題点をまとめています。  
 
 # 作業環境
-- GNU/Linux Debian
+- GNU/Linux Debian 6.12.35-1
 - LuaTeX(LuaHBTeX), Version 1.18.0 (TeX Live 2025)
 - Gedit：**Gedit** と **Debian** との作業手順関連の解説を添付しています。  
 
@@ -25,7 +25,7 @@ HOW TO Use JIS-Barcode(ja) with LuaTeX-ja.
 　⇒ [isbn-barcode-ja-latex](https://github.com/ru-museum/isbn-barcode-ja-latex)　//github.com/ru-museum/isbn-barcode-ja-latex
 
 # TODO
-- 二次元シンボル：検証中です  
+- 二次元シンボル：検証中  
 PDF417、マイクロPDF417、GS1合成シンボル、データマトリックス、マキシコード、  
 QRコード、マイクロQRコード、アズテックコード
 
