@@ -23,6 +23,7 @@ HOW TO Use JIS-Barcode(ja) with LuaTeX-ja.
 # USAGE
 - 書籍JANコードと雑誌バーコード、及びOCRフォントについては、以下の旧版を別解として参照して下さい。  
 　⇒ [isbn-barcode-ja-latex](https://github.com/ru-museum/isbn-barcode-ja-latex)　//github.com/ru-museum/isbn-barcode-ja-latex
+- ファイル **.gitattributes** はシステム上のものでレポジトリとは関係ありません。 
 
 # TODO
 - 二次元シンボル：検証中  
